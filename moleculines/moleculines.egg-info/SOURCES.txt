@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+moleculines/moleculines.egg-info/PKG-INFO
+moleculines/moleculines.egg-info/SOURCES.txt
+moleculines/moleculines.egg-info/dependency_links.txt
+moleculines/moleculines.egg-info/requires.txt
+moleculines/moleculines.egg-info/top_level.txt
