@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: moleculines
+Version: 0.1.0
+Summary: Personal library for analysis of molecular lines
+Author-email: Maria Jose Colmenares <mjcolmen@umich.edu>
+License: MIT license
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: astropy
+Requires-Dist: matplotlib
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Dynamic: license-file
+
+# moleculines
+
+this is my personal library to do stuff with molecular lines :)
+
+# license 
+
+idk :P
